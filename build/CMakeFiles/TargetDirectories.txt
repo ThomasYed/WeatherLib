@@ -1,3 +1,0 @@
-/Users/ivandyoma/VS code/example/build/CMakeFiles/example.dir
-/Users/ivandyoma/VS code/example/build/CMakeFiles/edit_cache.dir
-/Users/ivandyoma/VS code/example/build/CMakeFiles/rebuild_cache.dir

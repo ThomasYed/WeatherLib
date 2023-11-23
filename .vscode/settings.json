@@ -71,6 +71,8 @@
         "valarray": "cpp",
         "variant": "cpp",
         "vector": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "__verbose_abort": "cpp",
+        "charconv": "cpp"
     }
 }
